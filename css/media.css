@@ -1,0 +1,82 @@
+    @keyframes dev {
+        0% {
+            background: red;
+        }
+        50% {
+            transform: translatex(1300px);
+            background-color: blue;
+        }
+        100% {
+            transform: translatex(-00px);
+            background-color: darkorange;
+        }
+    }
+    
+    @keyframes manish {
+        0% {
+            transform: translate(0px, 0px);
+            background: red;
+        }
+        20% {
+            transform: translate(260px, 380px);
+            background-color: cyan;
+        }
+        40% {
+            transform: translate(520px, -180px);
+            background-color: yellow;
+        }
+        60% {
+            transform: translate(780px, 380px);
+            background-color: green;
+        }
+        80% {
+            transform: translate(1040px, -180px);
+            background-color: lightcoral;
+        }
+        100% {
+            transform: translate(1300px, 380px);
+            background-color: gray;
+        }
+    }
+    
+    @keyframes monu {
+        0% {
+            transform: translate(0px, 0px);
+            background: red;
+        }
+        20% {
+            transform: translate(260px, -380px);
+            background-color: cyan;
+        }
+        40% {
+            transform: translate(520px, 180px);
+            background-color: yellow;
+        }
+        60% {
+            transform: translate(780px, -380px);
+            background-color: green;
+        }
+        80% {
+            transform: translate(1040px, 180px);
+            background-color: lightcoral;
+        }
+        100% {
+            transform: translate(1300px, -380px);
+            background-color: gray;
+        }
+    }
+    
+    @keyframes piku {
+        0% {
+            transform: translate(0px, 0px);
+            background: royalblue;
+        }
+        50% {
+            transform: translate(0px, 280px);
+            background-color: lightgreen;
+        }
+        100% {
+            transform: translate(0px, -280px);
+            background-color: darkblue;
+        }
+    }
